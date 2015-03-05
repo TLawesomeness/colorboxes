@@ -1,1 +1,1 @@
-# prototype
+# Color boxes exercise
